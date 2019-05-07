@@ -1,4 +1,4 @@
-# BCI_Sparse_Signals
+# Brain Computer Interface - A approach with Sparse Signals
 
 Como utilizar meus scripts:
 
